@@ -1,0 +1,27 @@
+_repo: In-Time-of-Emergency--13-A-Citizen-s-Handbook-on-Nuclear-Attack-Natural-Disasters--1968-_15158
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Office of Civil Defense
+    gutenberg_agent_id: '5893'
+    url: http://www.gutenberg.org/2009/agents/5893
+description: ''
+gutenberg_issued: '2005-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15158'
+  lccn: '68061663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil defense -- Handbooks, manuals, etc.'
+- !lcc 'UA'
+- !lcsh 'Disasters -- Handbooks, manuals, etc.'
+title: "In Time of Emergency\r\nA Citizen's Handbook on Nuclear Attack, Natural Disasters\
+  \ (1968)"
+url: http://www.gutenberg.org/ebooks/15158
